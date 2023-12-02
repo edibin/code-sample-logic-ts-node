@@ -5,7 +5,7 @@
   "author": "edibin",
   "license": "MIT",
   "scripts": {
-    "start": "ts-node src/index.ts"
+    "start": "ts-node scripts/run.ts"
   },
   "devDependencies": {
     "@types/node": "^20.10.2",
