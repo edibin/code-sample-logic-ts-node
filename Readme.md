@@ -1,5 +1,5 @@
-# Advent of code 2023
-### Written in Typescript
+## Logic code samples - TS - Node
+### Questions from Advent of code 2023
 
 ## How to run
 For getting the answers of all days, run
@@ -9,6 +9,5 @@ yarn start
 
 For getting the answer of a specific day, run
 ```bash
-yarn start <day>
+yarn start <questionNumber> // 1 OR 2
 ```
-where `<day>` is the day you want to get the answer for.
